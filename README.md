@@ -3,8 +3,6 @@ This is the Java version of my portfolio showcasing my work in C++ and OpenGL. T
 
 ![Screenshot 2023-01-15 141156](https://user-images.githubusercontent.com/110789514/212561944-96b991d4-31c0-4757-84c0-5544be06054f.png)
 
-# Documentation
-
 ## Credits
 
 Ahn, S. H. (n.d.-b). OpenGL Sphere. http://www.songho.ca/opengl/gl_sphere.html
@@ -15,9 +13,13 @@ Brgfx. (n.d.). Wild Animals. https://www.freepik.com/free-vector/set-wild-animal
 
 DeVries, J. (n.d.). LearnOpenGL/LICENSE.md at master · JoeyDeVries/LearnOpenGL. GitHub. https://github.com/JoeyDeVries/LearnOpenGL/blob/master/LICENSE.md
 
+Fruit. (n.d.). Fruit: https://clipartart.com/categories/fruits-images-clipart.html.
+
 Gmarc. (n.d.). Animal Set in Flat Style. https://www.freepik.com/free-vector/animals-set-in-flat-style_4767470.htm
 
 Hui_u. (n.d.). colorful night sky. https://as1.ftcdn.net/v2/jpg/02/52/77/50/1000_F_252775020_qBF1RXgDQXKS7QFeu0Hd34GHLjYOWSWD.jpg
+
+Infraction. 2022. Boobass. Boobass. 2022.
 
 Infraction. 2022. Losing Control. Losing Control. 2022.
 
@@ -30,6 +32,10 @@ November1711. (n.d.). A high quality horizontal seamless background of landscape
 November1711. (n.d.). Seamless background with forest. https://as2.ftcdn.net/v2/jpg/01/31/93/15/1000_F_131931578_3B72XsLTWzf6EDkXBcLjQwW3kpykmeug.jpg
 
 PBR Textures.  https://freepbr.com/pbr-tutorials-resources/
+
+Pch.vector. (n.d.). Cute cartoon red fox set. https://www.freepik.com/free-vector/cute-cartoon-red-fox-set-funny-animal-character-smiling-crying-walking-playing-game-sleeping_12290956.htm#&position=19&from_view=undefined
+
+Pisut (n.d.). wings on white blackground. https://as2.ftcdn.net/v2/jpg/01/87/07/77/1000_F_187077796_e550DMG0Rf91J3dDMpXpEoo5lNB60CqU.jpg
 
 Rawpixel.com. (n.d.). Heart. https://www.freepik.com/free-vector/heart_2900812.htm
 
