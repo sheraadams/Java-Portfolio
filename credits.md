@@ -2,6 +2,8 @@
 
 ## Credits
 
+Ahn, S. H. (n.d.-b). OpenGL Sphere. http://www.songho.ca/opengl/gl_sphere.html
+
 arunsri. (n.d.). wings of birds on white background,green wings. https://as2.ftcdn.net/v2/jpg/01/75/10/95/1000_F_175109586_PQpdzmWjrZ4qvgA1dfmy0FZAQVertrE9.jpg
 
 Brgfx. (n.d.). Wild Animals. https://www.freepik.com/free-vector/set-wild-animal_4613359.htm
@@ -23,6 +25,8 @@ november1711. (n.d.). Seamless background with forest. https://as2.ftcdn.net/v2/
 PBR Textures.  https://freepbr.com/pbr-tutorials-resources/
 
 Rawpixel.com. (n.d.). Heart. https://www.freepik.com/free-vector/heart_2900812.htm
+
+Stein, Peggy (n.d.). Frillensee im Winter. https://as2.ftcdn.net/v2/jpg/00/45/85/55/1000_F_45855551_fXtSph3RnoKsKTFHW0z1BRws8Gawj3QE.jpg
 
 wikiImages. (n.d.). Orion Nebula. https://pixabay.com/photos/orion-nebula-emission-nebula-11107/
 
