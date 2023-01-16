@@ -1,7 +1,7 @@
 ## Documentation
 This is the Java version of my portfolio showcasing my work in C++ and OpenGL. There are several games and interactive 3D environment applications pictured that are also featured in my repositories.
 
-![Screenshot 2023-01-15 141156](https://user-images.githubusercontent.com/110789514/212561944-96b991d4-31c0-4757-84c0-5544be06054f.png)
+![Screenshot 2023-01-15 200752](https://user-images.githubusercontent.com/110789514/212578665-f201ea7f-824a-4445-b0af-1c3cb8843926.png)
 
 ## Credits
 
