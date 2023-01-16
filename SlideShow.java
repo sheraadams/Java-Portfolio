@@ -1,4 +1,4 @@
-// Shera Adams
+// Shera Adams Portfolio
 
 import java.awt.BorderLayout;
 import java.awt.CardLayout;
@@ -51,6 +51,7 @@ public class SlideShow extends JFrame
 		textPane.setBounds(5, 470, 790, 50);
 		textPane.setVisible(true);
 		buttonPane = new JPanel();
+		buttonPane.setBackground(Color.WHITE); // area behind button
 		btnPrev = new JButton();
 		btnNext = new JButton();
 		lblSlide = new JLabel();
